@@ -1,0 +1,31 @@
+img {
+	display: block;
+	margin: 0 auto;
+}
+body {
+	background-color:#E6D2AA;
+}
+#wrapper {
+	background-color:#A77979;
+	width:90%;
+	margin: 0 auto;
+	padding:1% 5% 5% 5%;
+}
+hr {
+	color: #472D2D;
+}
+header, footer {
+		text-align:center;
+	}
+	nav {
+		text-align:center;
+		
+	}
+	main{
+	width: 95%
+	margin: 1% auto;
+	background-color:#F1EFDC;
+}
+ul{
+	 border: .15em solid black;
+}
