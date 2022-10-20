@@ -1,0 +1,60 @@
+
+
+/* #dfe5f3 - light blue
+#557373 - green
+#272401 - brown
+#f2efea - cream
+#0d0d0d - black */
+
+body {
+    /* background-color: #3d3d3d; */
+    background-color: #f2efea;
+    margin:auto;
+    /* color: #d9c567; */
+    color: #3d3d3d;
+    /* color: #f6f6f6; */
+}
+hr {
+    color: #d9c567;
+}
+#wrapper {
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+    padding: 0 10%;
+}
+h1 {
+    text-align: center;
+    color:#d9c567;
+    /* color:#272401; */
+}
+h3 {
+    text-align: center;
+    color: #557373;
+}
+blockquote {
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+    font-style: italic;
+}
+nav {
+    
+    padding: 1%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    margin: 2%;
+}
+
+header > img{
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+}
+
+
