@@ -51,7 +51,7 @@ form{
 }
 
 fieldset{
-	border: .2em solid  #BFBA43;
+	border: .2em solid  #FFB33F;
 }
 
 label{
@@ -60,3 +60,6 @@ label{
 	display: inline-block;
 }
 
+#buttons{
+	margin-top: 5%;
+}
