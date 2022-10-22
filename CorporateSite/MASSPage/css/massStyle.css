@@ -53,6 +53,10 @@ caption{
 	padding: 1% auto;
 }
 
+#infoPeople{
+	margin: 2% auto;
+}
+
 table, td, th{
   border: thin solid #000000;
 }
